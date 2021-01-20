@@ -1,5 +1,7 @@
 <!--### Hi there 👋-->
 [![Przeblysk's github stats](https://github-readme-stats.vercel.app/api?username=Przeblysk)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Przeblysk/Przeblysk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
